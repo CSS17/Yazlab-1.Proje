@@ -47,7 +47,7 @@ public class Main extends PApplet {
 
         }
         public void draw() {
-            background(255,255,255);
+            background(0,255,0);
             fill(0);
             surface.setLocation(100, 100);
             if(a){
