@@ -6,7 +6,6 @@ import processing.core.PFont;
 public class Main extends PApplet {
     boolean a=false;
     boolean b=false;
-    ControlP5 cp5;
     PFont font;
     public static void main(String[] args) {
         PApplet.main("com.company.Main", args);
@@ -14,7 +13,6 @@ public class Main extends PApplet {
     }
     public void settings() {
         size(600, 600);
-        cp5=new ControlP5(this);
 
     }
 
