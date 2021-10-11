@@ -85,7 +85,7 @@ public class Harita  {
 
 
 
-            browser.navigation().loadUrl("C:\\Users\\ofuce\\Desktop\\YAZLAB JS\\yazlab.html");
+            browser.navigation().loadUrl("C:\\Users\\ofuce\\Documents\\GitHub\\Yazlab-1.Proje\\yazlab.html");
         });
     }
 }
